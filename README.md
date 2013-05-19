@@ -1,4 +1,4 @@
 Assassins
 =========
 
-Remake of the classic game Assassins for MAC
+Remake of the classic MAC game Assassins
